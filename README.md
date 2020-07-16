@@ -1,8 +1,8 @@
 # Pandas-1.x-Cookbook
 ### My work over the book "Pandas 1.x Cookbook" by Harrisson and Petrou.
 ### Chapters I've gone through so far: ✅
-01.✅ Pandas Foundations 1
-02.✅ Essential DataFrame Operations 45
+01. ✅ Pandas Foundations 1
+02. ✅ Essential DataFrame Operations 45
 03. Creating and Persisting DataFrames 81
 04. Beginning Data Analysis 115
 05. Exploratory Data Analysis 139
